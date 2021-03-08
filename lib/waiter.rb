@@ -31,6 +31,3 @@ class Waiter
     best_tipper_meal_customer
   end
 end
-  
-
-end
